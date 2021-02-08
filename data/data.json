@@ -1,6 +1,6 @@
 {
-    "name":"STARSHINE",
-    "type":"tienda",
+    "name":"Mariangy Martinez",
+    "type":"personal",
     "social":[
         {
             "name":"Facebook",
@@ -8,10 +8,6 @@
         },
         {
             "name":"Instagram",
-            "url":""
-        },
-        {
-            "name":"Whatsapp",
             "url":""
         }
     ],
